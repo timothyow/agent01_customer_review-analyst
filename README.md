@@ -1,10 +1,11 @@
-# Review Analyst with LangChain + LLMs
-This mini-project demonstrates how to analyze customer reviews using Large Language Models (LLMs) together with LangChain for framework and structured outputs. 
-The project shows how with LangChain, you can extract business-relevant insights and auto-generate customer service responses at scale instead of using ChatGPT on ad-hoc basis. 
+# Product-review analyst with LangChain + LLMs
+This mini-project shows how Large Language Models (LLMs) can do certain tasks more efficently and here, the project demonstrates how to analyze customer reviews using LLMs together with LangChain for its framework and structured outputs.
+The project also shows how with LangChain, we can extract business-relevant insights and auto-generate customer service responses at scale instead of using ChatGPT on ad-hoc basis. 
+ 
 
 ---
 
-## What the review analyst does
+## What the product-review analyst does
 - Summarizes customer reviews
 - Extracts key highlights (positive or negative)
 - Detects review sentiment (Positive / Neutral / Negative)
