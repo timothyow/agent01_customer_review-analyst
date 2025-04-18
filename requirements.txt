@@ -3,4 +3,4 @@ langchain
 pydantic
 pandas
 ipykernel
-python-dotenv
+
